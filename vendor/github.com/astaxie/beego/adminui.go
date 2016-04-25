@@ -252,8 +252,8 @@ Welcome to Beego Admin Dashboard
 
 </title>
 
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
-<link href="//cdn.datatables.net/plug-ins/725b2a2115b/integration/bootstrap/3/dataTables.bootstrap.css" rel="stylesheet">
+<link href="static/offline/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+<link href="static/offline/datatables/dataTables.bootstrap.css" rel="stylesheet">
 
 <style type="text/css">
 ul.nav li.dropdown:hover > ul.dropdown-menu {
