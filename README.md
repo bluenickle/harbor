@@ -1,3 +1,11 @@
+# Forked
+
+This fored version has done following modifications to the original versions:
+
+1. Modify the docker-compose.yml to compatible to version 1
+
+2. Modify the static file loading mechanism to fit for offline environment
+
 # Harbor
 
 [![Build Status](https://travis-ci.org/vmware/harbor.svg?branch=master)](https://travis-ci.org/vmware/harbor)
